@@ -3,3 +3,9 @@
   box-shadow: none;
   shadow: none;
 }
+
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  shadow: none;
+  border: none;
+}

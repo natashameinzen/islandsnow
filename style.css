@@ -9,3 +9,10 @@
   shadow: none;
   border: none;
 }
+
+.footer-background {
+  background-color: #292929;
+  padding-top: 25px;
+  paddion-bottom: 25px;
+  color: white;
+}
